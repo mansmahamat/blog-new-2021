@@ -8,7 +8,7 @@ I enjoy frontend development because it allows me to build cool interfaces and p
 
 I have always wanted to work in IT since childhood but I never took that direction at school.
 
-In 2018, I decided to learn coding on my own for 6 months with sites such as  [OpenClassrooms](https://example.com) & [Freecodecamp ](https://example.com) after a career as a textile salesman and handler
+In 2018, I decided to learn coding on my own for 6 months  with sites such as [OpenClassrooms](https://example.com) & [Freecodecamp ](https://example.com) after a career as a textile salesman and handler.
 
 ![Mans](../posts/img/WEBID-05.jpg "Mans")
 
