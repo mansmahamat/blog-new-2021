@@ -8,7 +8,7 @@ const Header = ({ children }) => (
       bg: "siteColor",
     }}
   >
-    {children}
+    {children} 
   </header>
 )
 

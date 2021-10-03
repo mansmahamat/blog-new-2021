@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Be Water",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Mansour Mahamat-salle blog's, I'm a Frontend Developer based in Montpellier, France.",
     "siteUrl": "https://foundation.stackrole.com",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@mans_js"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

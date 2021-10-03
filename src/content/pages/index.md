@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Mansour Mahamat-Salle
+tagline: Frontend Developer
+featuredImage: ../posts/img/WEBID-05.jpg
 cta:
-  ctaText: Know more
+  ctaText: About
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+My name is Mansour, I'm a Frontend developer and I live in Montpellier, France. I love sports, writing blogs, and discover technologies.

@@ -120,6 +120,7 @@
     margin-bottom: 30px;
   }
   .featured-image {
+
     border-radius: 12px;
   }
   @media (max-width: $breakpoint-sm) {
@@ -281,6 +282,7 @@ article img {
   }
   .icon {
     display: inline-flex;
+    
     &.-right {
       margin-left: var(--margin);
     }
