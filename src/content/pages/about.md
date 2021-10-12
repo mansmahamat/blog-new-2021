@@ -4,7 +4,7 @@ slug: /about
 title: About Me
 ---
 
-I enjoy frontend development because it allows me to build cool interfaces and play with API'S.
+I enjoy frontend development because it allows me to build cool interfaces and play with API's.
 
 I have always wanted to work in IT since childhood but I never took that direction at school.
 
