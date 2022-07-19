@@ -9,4 +9,5 @@ cta:
   ctaLink: /about
 ---
 
-My name is Mansour, I'm a Frontend developer and I live in Montpellier, France. I love sports, writing blogs, and discover technologies.
+My name is Mansour, I'm a French 🇨🇵 Frontend developer based in Stockholm, Sweden 🇸🇪. 
+I love sports, writing blogs, and discover technologies.

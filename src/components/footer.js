@@ -11,13 +11,13 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>
-        Made with{" "}
-        <span className="icon -love">
-          <RiHeart2Line />
-        </span>{" "}
-        From Montpellier
-      </p>
+      <a target="_blank" href="https://www.buymeacoffee.com/maans">
+        <img
+          src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg"
+          alt="Buy me a coffee"
+        />
+        <p>Buy me a coffee</p>
+      </a>
     </div>
   </footer>
 )
